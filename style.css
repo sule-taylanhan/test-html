@@ -30,3 +30,13 @@ h1 {
 	background-color: #04aa6d;
 	color: white;
 }
+table {
+	width: 100%;
+}
+
+th {
+	height: 70px;
+}
+th {
+	text-align: center;
+}
